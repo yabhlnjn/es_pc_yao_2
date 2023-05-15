@@ -140,20 +140,20 @@ https://flickity.metafizzy.co
     width: 66%;
     height: 500px;
     margin-right: 10px;
-    background: url(../imgs/lagoon_nebula.jpg);
+    background: url(lagoon_nebula.jpg);
     counter-increment: gallery-cell;
   }
   .gallery-cell2 {
     width: 66%;
     height: 500px;
     margin-right: 10px;
-    background: url(../imgs/ngc6727.jpg);
+    background: url(ngc6727.jpg);
     counter-increment: gallery-cell;
   }
   .gallery-cell3 {
     width: 66%;
     height: 500px;
     margin-right: 10px;
-    background: url(../imgs/ic434.jpg);
+    background: url(ic434.jpg);
     counter-increment: gallery-cell;
   }
