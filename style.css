@@ -726,9 +726,7 @@ pre code {
           flex: 0 0 100%;
   max-width: 100%;
 }
-.col-md-13 {
-  padding: 6rem;
-}
+
 .order-first {
   -webkit-box-ordinal-group: 0;
   -webkit-order: -1;
