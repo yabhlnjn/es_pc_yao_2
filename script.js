@@ -1,11 +1,5 @@
 
-(document).ready(function(){
-    
-    $('.search-toggle').click(function(){
-        $('.search-wrapper').toggleClass('show');
-    });
 
-    });
 
 
 
